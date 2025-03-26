@@ -12,7 +12,7 @@ This project involves working with a CSV dataset downloaded from [Kaggle](https:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/dukeelian/data_ETL.git
+   git clone https://github.com/Dukeelian/Data_ETL.git
    ```
 2. Download the dataset from Kaggle and place it in the appropriate directory (e.g., `data/`).
 3. Follow the ETL workflow scripts provided in this repository.
